@@ -1,0 +1,18 @@
+.thumbnail-container {
+  max-height: 100vh;
+  min-height: 500px;
+  overflow-y: auto;
+}
+.mainView {
+    max-height: 100vh;
+    min-height: 500px;
+    overflow-y: auto;
+}
+.PDFDiv {
+    max-height: 100vh;
+    min-height: 500px;
+}
+.TableDiv {
+    max-height: 100vh;
+    min-height: 500px;
+}
