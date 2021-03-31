@@ -22,7 +22,7 @@ jdcal==1.4.1
 Jinja2==2.10.3
 kiwisolver==1.1.0
 kombu==4.6.7
-lxml==4.4.2
+lxml==4.6.3
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 more-itertools==8.0.2
