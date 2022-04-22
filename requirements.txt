@@ -43,7 +43,7 @@ pydot==1.4.1
 pydotplus==2.0.2
 PyMuPDF==1.16.5
 pyparsing==2.4.5
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dateutil==2.8.1
 pytz==2019.3
 pyxnat==1.2.1.0.post3
